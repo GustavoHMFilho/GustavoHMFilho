@@ -1,43 +1,113 @@
-## Hello, there! ✌️
-
-I'm a **Systems Information** student at the **Federal University of Lavras (UFLA)** and a passionate developer from Brazil. I love programming, and my goal is to create awesome websites and applications that solve real-world problems while delivering a seamless and beautiful user experience. I'm also eager to share my knowledge and help others grow in the world of technology.
-
-# Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:10b981&height=180&section=header&text=Gustavo%20Henrique%20Moraes%20Filho&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Automações%20com%20IA%20para%20WhatsApp,%20CRM%20e%20processos%20comerciais&descAlignY=58&descSize=16" />
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Analista+de+Automa%C3%A7%C3%B5es+e+IA+para+Atendimento;Crio+fluxos+inteligentes+para+WhatsApp+e+CRM;Integro+n8n%2C+IA%2C+APIs%2C+bancos+de+dados+e+ferramentas+comerciais;Transformo+processos+manuais+em+automa%C3%A7%C3%B5es+escal%C3%A1veis)](https://git.io/typing-svg)
+
 </div>
 
-# You can find me here
+## 👋 Sobre mim
+
+Sou **Gustavo Henrique Moraes Filho**, Analista de Automações com foco em soluções inteligentes para atendimento, vendas e processos comerciais.
+
+Crio automações com IA para **WhatsApp**, **CRM**, **tráfego pago**, **gestão de leads**, **planilhas**, **bancos de dados** e integrações entre plataformas. Meu objetivo é ajudar empresas a responder mais rápido, perder menos oportunidades e reduzir tarefas manuais com fluxos automatizados, organizados e escaláveis.
+
+> IA, WhatsApp, CRM e automações comerciais conectados para transformar atendimento em resultado.
+
+## 🚀 O que eu automatizo
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 IA para WhatsApp</h3>
+      <p>Atendimento 24h, respostas inteligentes, qualificação de leads, memória de conversa, contexto e transferência para humano quando necessário.</p>
+    </td>
+    <td width="50%">
+      <h3>📊 CRM e funil comercial</h3>
+      <p>Cadastro de leads, atualização de etapas, follow-ups, organização de contatos e integração entre ferramentas comerciais.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📣 Tráfego pago + leads</h3>
+      <p>Integrações com Google Ads e Facebook Ads para capturar, organizar e distribuir leads com mais velocidade.</p>
+    </td>
+    <td width="50%">
+      <h3>🔗 Integração de sistemas</h3>
+      <p>Fluxos com n8n, APIs, webhooks, bancos de dados, planilhas e plataformas externas.</p>
+    </td>
+  </tr>
+</table>
+
+## 🧠 Case principal
+
+### IA de Atendimento 24h para WhatsApp
+
+Desenvolvimento de workflows de atendimento inteligente para empresas que recebem contatos pelo WhatsApp e precisam responder rápido, qualificar leads e manter histórico da conversa.
+
+**Diferenciais do fluxo:**
+
+- Atendimento disponível 24 horas por dia
+- Memória e contexto de conversa
+- Qualificação automática de leads
+- Integração com CRM, planilhas e banco de dados
+- Encaminhamento para atendimento humano com resumo da conversa
+- Aplicável para lojas de smartphones, dentistas, advogados, nutricionistas e outros nichos
+
+**Stack usada:** n8n, OpenAI, WhatsApp, Evolution API, Twilio, Supabase, Postgres, Redis, APIs e webhooks.
+
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
-<a href="https://instagram.com/gustavoh_ghek" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
 
-<a href="https://www.linkedin.com/in/gustavo-henrique-moraes-filho/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-</a>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=database&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 
 </div>
-<br>
 
+## 📌 Projetos em destaque
 
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| **IA de Atendimento para WhatsApp** | Automação inteligente para responder mensagens, qualificar leads, preservar contexto e transferir para humano com resumo quando necessário. | n8n, OpenAI, WhatsApp, Evolution API, Supabase, Postgres, Redis |
+| **CRM e Funil Comercial** | Fluxos automatizados para organizar leads, atualizar etapas do funil, registrar informações e facilitar follow-ups. | Go High Level, Inlead, n8n, Google Sheets, APIs, Webhooks |
+| **Tráfego Pago + Leads** | Integração de campanhas com WhatsApp, CRM e planilhas para reduzir demora no atendimento e evitar perda de oportunidades. | Google Ads, Facebook Ads, n8n, Go High Level, Google Sheets |
+| **Automações com Banco de Dados** | Estruturação de fluxos com memória, histórico, estado de conversa e consultas inteligentes. | Supabase, Postgres, Redis, APIs, Webhooks |
 
+## 📈 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoHMFilho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHMFilho&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🌐 Portfólio
+
+Conheça meu portfólio profissional:
+
+🔗 [gustavohmfilho.github.io/pagina-pessoal](https://gustavohmfilho.github.io/pagina-pessoal/)
+
+## 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-moraes-filho)
+[![Gmail](https://img.shields.io/badge/E--mail-ti.gustavofilho%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ti.gustavofilho@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-35%2099738--1109-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535997381109)
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-Acessar-10B981?style=for-the-badge&logo=githubpages&logoColor=white)](https://gustavohmfilho.github.io/pagina-pessoal/)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:2563eb,100:0f172a&height=120&section=footer" />
