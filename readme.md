@@ -84,14 +84,6 @@ Desenvolvimento de workflows de atendimento inteligente para empresas que recebe
 | **Tráfego Pago + Leads** | Integração de campanhas com WhatsApp, CRM e planilhas para reduzir demora no atendimento e evitar perda de oportunidades. | Google Ads, Facebook Ads, n8n, Go High Level, Google Sheets |
 | **Automações com Banco de Dados** | Estruturação de fluxos com memória, histórico, estado de conversa e consultas inteligentes. | Supabase, Postgres, Redis, APIs, Webhooks |
 
-## 📈 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoHMFilho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHMFilho&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ## 🌐 Portfólio
 
