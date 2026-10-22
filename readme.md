@@ -6,6 +6,19 @@
 
 </div>
 
+## Formação e objetivo profissional
+
+Curso **Sistemas de Informação na Universidade Federal de Lavras (UFLA)** e atuo como **estagiário de automação na Boop Mídia desde abril de 2026**. Meu próximo objetivo é uma posição **júnior em desenvolvimento de automações e integração de sistemas**, conectando n8n, Python, APIs, webhooks e bancos de dados.
+
+Na graduação, também desenvolvo aplicações com **Python, Django, Django REST Framework e Docker**. Os repositórios abaixo apresentam o problema resolvido, as tecnologias, as instruções de execução e exemplos de uso.
+
+## Projetos com código e execução documentada
+
+| Projeto | O que demonstra | Execução e exemplo |
+|---|---|---|
+| [Sistema de Agendamento de Caronas](https://github.com/GustavoHMFilho/sistema-agendamento-caronas) | Python, Django, modelagem relacional, validações de negócio e Docker | [README e roteiro de reserva](https://github.com/GustavoHMFilho/sistema-agendamento-caronas#exemplo-de-uso) |
+| [Acervo - Gestão de TCCs](https://github.com/GustavoHMFilho/gestao-tccs-nextjs) | Integração entre Next.js e API Django REST Framework; projeto em coautoria com Lucas Reis | [README e consulta à API](https://github.com/GustavoHMFilho/gestao-tccs-nextjs#exemplo-de-uso-da-api) |
+
 ## 👋 Sobre mim
 
 Sou **Gustavo Henrique Moraes Filho**, Analista de Automações com foco em soluções inteligentes para atendimento, vendas e processos comerciais.
@@ -103,3 +116,4 @@ Conheça meu portfólio profissional:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:2563eb,100:0f172a&height=120&section=footer" />
+
