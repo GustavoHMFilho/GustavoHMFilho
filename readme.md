@@ -6,6 +6,8 @@
 
 </div>
 
+[Currículo Lattes](https://lattes.cnpq.br/6420620922530373) · [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-moraes-filho/)
+
 ## Formação e objetivo profissional
 
 Curso **Sistemas de Informação na Universidade Federal de Lavras (UFLA)** e atuo como **estagiário de automação na Boop Mídia desde abril de 2026**. Meu próximo objetivo é uma posição **júnior em desenvolvimento de automações e integração de sistemas**, conectando n8n, Python, APIs, webhooks e bancos de dados.
